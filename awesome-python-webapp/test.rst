@@ -66,7 +66,7 @@ Enumerated lists(数字列表)
 Definition lists(自定义列表)
 ----------------------------
 
-what 
+*what:* 
   Definition lists associate a term with a definition. 
 
 how 
