@@ -1,5 +1,8 @@
-MyTest2Rst
-===========
+Python34
+========
+
+.. toctree::
+   :maxdepth: 4
 
 标题
 ====
